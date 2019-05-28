@@ -1,0 +1,25 @@
+{
+  "name": "my-new-reactreduxspa",
+  "version": "1.0.0",
+  "description": "fiveways",
+  "main": "index.js",
+  "dependencies": {
+    "group-array-then-sort": "^1.0.1",
+    "json-groupby": "^1.1.0",
+    "sort-json-array": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinbhambhani/cars.git"
+  },
+  "author": "jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinbhambhani/cars/issues"
+  },
+  "homepage": "https://github.com/jatinbhambhani/cars#readme"
+}
